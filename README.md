@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm @khadizasultana37
+# 👋 Hello, World! I'm @tayma-06
 
 Welcome to my GitHub! I'm a **software programming enthusiast** on a mission to master coding, solve complex problems, and continue learning with every project. 🚀
 
