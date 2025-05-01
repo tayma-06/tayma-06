@@ -1,11 +1,10 @@
 #### 👋 Hello, World! It's @tayma-06  
 - I'm just a **software engineering student**. 🚀
 #### 🌟 About Me
-- 💻 **Learning:** C++ 
-- 📖 **Hobbies:** Reading & journaling 📝  
-- 🛡️ **Next Goal:** Python 🐍  
+- 💻 **Learning:** C++, Java
+- 📖 **Hobbies:** Reading & journaling 📝    
 #### 💪 Skills & Tools
-- C, C++  
+- C, C++, Java  
 #### 🎯 Goals
 - 🖥️ **Tool:** VSCode  
 - 💡 **Challenge:** Teaching myself.  
