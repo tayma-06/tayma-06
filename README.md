@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, I'm Tayma</h1>
 <p align="center">
-  Software Engineering Student | Self-Taught Developer | Always Learning 
+  Software Engineering Student | Always Learning 
 </p>
 
 ---
