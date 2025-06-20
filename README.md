@@ -73,8 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayma-06&theme=tokyonight&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=tayma-06&theme=tokyonight&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayma-06&layout=compact&theme=radical&title_color=ff69b4&text_color=ffb6c1&hide_border=true&bg_color=20232a" />
