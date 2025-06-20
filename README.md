@@ -16,7 +16,7 @@
 
 - 🎓 Pursuing a degree in **Software Engineering**
 - 💖 Passionate about **problem-solving** and clean code
-- 💻 Currently learning: `C++`, `Java`, `HTML`
+- 💻 Currently learning: `Java`
 - ✍️ I love writing, journaling, and building projects that reflect my creativity
 - 🧠 Self-driven, always curious, and obsessed with cute tech
 
@@ -29,9 +29,6 @@
   <img src="https://img.shields.io/badge/C++-f34b7d?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-FFAEC9?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-FDB9D8?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FADADD?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-FFC0CB?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 ---
@@ -44,8 +41,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-FFB6C1?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-FF69B4?style=for-the-badge&logo=eclipse-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-FFB6C1?style=for-the-badge&logo=intellij-idea&logoColor=white" />🤍 
 </p>
 
 ---
@@ -54,7 +50,6 @@
 
 - 🌸 Build cute yet powerful apps
 - 🌱 Grow deep understanding of **OOP**, **DSA**, and **system design**
-- ✨ Contribute to **open-source** communities
 - 🧁 Create a personal portfolio site that reflects my tech personality
 - 📓 Document and share everything I learn 💡
 
