@@ -62,27 +62,6 @@
 
 ---
 
-## 📂 GitHub Stats
-<details>
-<summary><b>Click to expand stats 🌸</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tayma-06&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&text_color=FFB6C1&bg_color=20232a&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayma-06&theme=rose_pine&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayma-06&layout=compact&theme=radical&title_color=FF69B4&text_color=FFB6C1&hide_border=true&bg_color=20232a" />
-</p>
-
-</details>
-
----
-
 ## 🧁 Contact Me
 <p align="center">
   <a href="https://github.com/tayma-06">
