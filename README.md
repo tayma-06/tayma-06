@@ -81,10 +81,9 @@ class Tayma:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tayma-06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FFB6C1&text_color=C9D1D9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayma-06&theme=radical&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FFB6C1" alt="GitHub Streak" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayma-06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=C9D1D9" alt="Top Languages" />
+<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tayma-06&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tayma-06&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayma-06&theme=radical&hide_border=true&ring=FF69B4&fire=FF69B4" alt="GitHub Streak" />
 
 </div>
 
@@ -113,8 +112,6 @@ class Tayma:
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_category=programming)
 
-### 🐍 Contribution Graph
-![snake gif](https://raw.githubusercontent.com/tayma-06/tayma-06/output/github-contribution-grid-snake-dark.svg)
 
 ### 📈 Profile Activity Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tayma-06&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF69B4&line=FFB6C1&point=FFFFFF)](https://github.com/tayma-06)
