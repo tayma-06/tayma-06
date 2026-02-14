@@ -81,9 +81,29 @@ class Tayma:
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tayma-06&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tayma-06&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayma-06&theme=radical&hide_border=true&ring=FF69B4&fire=FF69B4" alt="GitHub Streak" />
+<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tayma-06&layout=compact&theme=radical&hide_border=true&title_color=FF69B4&text_color=C9D1D9&cache_seconds=1800" alt="Top Languages" />
+
+<br/>
+
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tayma-06&show_icons=true&theme=radical&hide_border=true&title_color=FF69B4&icon_color=FFB6C1&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayma-06&theme=radical&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=FFB6C1" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🐍 My Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tayma-06/tayma-06/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tayma-06/tayma-06/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tayma-06/tayma-06/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
