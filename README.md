@@ -140,7 +140,6 @@ class Tayma:
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%8C%B8;Let's+build+something+amazing+together!;Keep+coding%2C+keep+growing+%E2%9C%A8;Star+%E2%AD%90+my+repos+if+you+like+them!" alt="Footer" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=tayma-06&color=FF69B4&style=for-the-badge&label=PROFILE+VIEWS)
 
 **Made with 💖 and lots of ☕**
 
