@@ -77,7 +77,7 @@ class Tayma:
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -98,7 +98,7 @@ class Tayma:
 
 <br/>
 
-### 🐍 My Contribution Snake
+### My Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tayma-06/tayma-06/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tayma-06/tayma-06/output/github-contribution-grid-snake.svg" />
@@ -109,7 +109,7 @@ class Tayma:
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -129,11 +129,11 @@ class Tayma:
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_category=programming)
 
 
-### 📈 Profile Activity Graph
+### Profile Activity Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tayma-06&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF69B4&line=FFB6C1&point=FFFFFF)](https://github.com/tayma-06)
 
 ---
