@@ -1,6 +1,5 @@
 <div align="center">
 
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:C8A2E0,50:B19CD9,100:9D7FDE&text=Hi,%20I'm%20Tayma&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Write%20Code,%20Sleep,%20Repeat&descAlignY=80&descSize=18" width="100%"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=B19CD9&center=true&vCenter=true&width=500&lines=SWE+Student+at+IUT+%F0%9F%8C%B8;Building+worlds+in+Godot+4+%F0%9F%8E%AE;Digging+through+data;Always+mid-project+on+something+%E2%9C%A8" alt="Typing SVG" />
 <br/>
@@ -20,22 +19,22 @@
 <div align="center">
 
 <details>
-<summary><b>📍 Quick Facts</b></summary>
+<summary><img src="https://img.icons8.com/ios-filled/20/A78BFA/info.png" width="16" valign="middle"/> <b>Quick Facts</b></summary>
 <br/>
 
 - Based in **Dhaka, Bangladesh**
 - **Software Engineering** student at IUT
-- Powered by coffee and curiosity ☕
+- Powered by coffee and curiosity
 
 </details>
 
 <details>
-<summary><b>🎯 Currently Into</b></summary>
+<summary><img src="https://img.icons8.com/ios-filled/20/A78BFA/target.png" width="16" valign="middle"/> <b>Currently Into</b></summary>
 <br/>
 
 - Building games in **Godot 4**
 - Poking around **data science**
-- Turning IUT into a tiny pixel-art world (WanderVille 🌾)
+- Turning IUT into a tiny pixel-art world (WanderVille)
 
 </details>
 
@@ -47,11 +46,19 @@
 
 <div align="center">
 
-### 🎮 Game Dev
+<details open>
+<summary><img src="https://img.icons8.com/ios-filled/20/A78BFA/controller.png" width="16" valign="middle"/> <b>Game Dev</b></summary>
+<br/>
+
 ![Godot](https://img.shields.io/badge/Godot-B19CD9?style=for-the-badge&logo=godotengine&logoColor=white)
 ![itch.io](https://img.shields.io/badge/itch.io-A78BFA?style=for-the-badge&logo=itchdotio&logoColor=white)
 
-### 📊 Data Science & ML
+</details>
+
+<details open>
+<summary><img src="https://img.icons8.com/ios-filled/20/A78BFA/combo-chart.png" width="16" valign="middle"/> <b>Data Science & ML</b></summary>
+<br/>
+
 ![Pandas](https://img.shields.io/badge/Pandas-B19CD9?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-C3AED6?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-A78BFA?style=for-the-badge&logo=plotly&logoColor=white)
@@ -59,10 +66,10 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-B8A4E3?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-9D7FDE?style=for-the-badge&logo=roboflow&logoColor=white)
 
-<br/>
+</details>
 
 <details>
-<summary><b>💻 Languages I Speak</b></summary>
+<summary><img src="https://img.icons8.com/ios-filled/20/A78BFA/source-code.png" width="16" valign="middle"/> <b>Languages I Speak</b></summary>
 <br/>
 
 ![C](https://img.shields.io/badge/C-B19CD9?style=for-the-badge&logo=c&logoColor=white)
@@ -76,7 +83,7 @@
 </details>
 
 <details>
-<summary><b>🛠️ Frameworks & Backend</b></summary>
+<summary><img src="https://img.icons8.com/ios-filled/20/A78BFA/server.png" width="16" valign="middle"/> <b>Frameworks & Backend</b></summary>
 <br/>
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-A78BFA?style=for-the-badge&logo=springboot&logoColor=white)
@@ -87,7 +94,7 @@
 </details>
 
 <details>
-<summary><b>🗄️ Databases & Tools</b></summary>
+<summary><img src="https://img.icons8.com/ios-filled/20/A78BFA/database.png" width="16" valign="middle"/> <b>Databases & Tools</b></summary>
 <br/>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A78BFA?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -159,6 +166,6 @@
 
 <div align="center">
 
-**Made with lots of coffee ☕ and curiosity**
+<img src="https://img.icons8.com/ios-filled/16/A78BFA/coffee.png" width="14" valign="middle"/> **Made with lots of coffee and curiosity**
 
 </div>
