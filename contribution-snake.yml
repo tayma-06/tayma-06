@@ -1,0 +1,47 @@
+name: Contribution Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 06:30 Bangladesh time (UTC+6)
+    - cron: "30 0 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate violet contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-contribution-grid-snake.svg?color_snake=%237E22CE&color_dots=%23F8FAFC,%23E9D5FF,%23C084FC,%23A855F7,%23EC4899
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23F0ABFC&color_dots=%23090014,%233B0764,%237E22CE,%23C026D3,%23F472B6
+
+      - name: Commit generated snake
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/github-contribution-grid-snake.svg
+          git add assets/github-contribution-grid-snake-dark.svg
+
+          if git diff --cached --quiet; then
+            echo "Snake is already up to date."
+            exit 0
+          fi
+
+          git commit -m "chore: refresh contribution snake"
+          git push
