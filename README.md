@@ -208,19 +208,19 @@ BUILD IT BETTER
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/tayma-06/tayma-06/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/tayma-06/tayma-06/output/github-contribution-grid-snake.svg"
+  />
   <img
-    alt="Animated GitHub contribution snake"
-    src="./assets/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/tayma-06/tayma-06/output/github-contribution-grid-snake-dark.svg"
   />
 </picture>
-
-<br/>
-
-<sub>
-The snake is regenerated automatically by the included GitHub Action.
-</sub>
 
 </div>
 
