@@ -48,7 +48,7 @@
 │  STUDYING    Software Engineering @ IUT                      │
 │  INTERESTS   Game Dev • Data Science • Creative Coding       │
 │  PROJECT     WanderVille                                     │
-│  MODE        Build → Break → Learn → Repeat                   │
+│  MODE        Build → Break → Learn → Repeat                  │
 │  FUEL        Coffee + curiosity                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
